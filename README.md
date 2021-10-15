@@ -1,1 +1,1 @@
-# SQL-And-Big-Querry-For-Data-Science
+#  Complete Machine Learning & Data Science Bootcamp
